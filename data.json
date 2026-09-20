@@ -1,8 +1,121 @@
 {
- "meta": { "app": "STIK OS", "v": 1 },
- "settings": {},
- "counters": { "offer": 8 },
- "col": {},
+ "meta": {
+  "app": "STIK OS",
+  "v": 1,
+  "updatedAt": "2026-09-20T12:53:40.218Z",
+  "seeded": {
+   "dej": 1,
+   "tehnicna": 1
+  }
+ },
+ "settings": {
+  "company": {
+   "naziv": "STIK trgovina d.o.o.",
+   "naslov": "Malahorna 14",
+   "posta": "2317",
+   "kraj": "Oplotnica",
+   "drzava": "Slovenija",
+   "tel": "00386 3 759 2983",
+   "fax": "00386 3 759 2984",
+   "gsm1": "00386 31 302 687",
+   "gsm2": "00386 31 302 686",
+   "spletne": "www.roadranger.si | www.pickupoprema.si | www.avengerbox.si",
+   "mail": "info@pickupoprema.si",
+   "ddvId": "SI45126755",
+   "trr": "0400 1004 8041 955",
+   "iban": "SI56 0400 1004 8041 955",
+   "swift": "KBMASI2X",
+   "banka": "OTP banka",
+   "infoTel": "031 302 687"
+  },
+  "offers": {
+   "ddv": 22,
+   "cenaZDDV": true,
+   "avans": 30,
+   "veljavnost": 14,
+   "opisNaslov": "Standardna oprema:",
+   "transportLbl": "Uvozni transport",
+   "montazaLbl": "Montaža z materialom",
+   "montazaFree": "Brezplačna montaža!",
+   "imgQ": 70,
+   "pogoji": "Rok plačila: {avans_pct}% avans, ostalo pred prevzemom zmontiranega vozila.\nNaročilo prične veljati s plačilom avansa po ponudbi.\nRok dobave (cca.): {rok_dobave}"
+  },
+  "ai": {
+   "workerUrl": "",
+   "key": "",
+   "model": ""
+  },
+  "km": {
+   "rate": 0.43
+  },
+  "proxies": true,
+  "theme": "auto",
+  "shopBase": "https://pickupoprema.si"
+ },
+ "counters": {
+  "offer": 8
+ },
+ "col": {
+  "ponudbe": [],
+  "dfa": [],
+  "ifa": [],
+  "todo": [],
+  "reklamacije": [],
+  "prihodi": [],
+  "stranke": [],
+  "narocnine": [],
+  "telefoni": [],
+  "nalogi": [],
+  "potovanja": [],
+  "certifikati": [],
+  "dejavnosti": [
+   {
+    "id": "dej_pickupoprema",
+    "naziv": "Pickupoprema.si",
+    "url": "https://www.pickupoprema.si",
+    "opombe": "Spletna trgovina z opremo za pick-up vozila",
+    "_c": "2026-09-20T12:47:53.449Z",
+    "_u": "2026-09-20T12:47:53.449Z"
+   },
+   {
+    "id": "dej_roadranger",
+    "naziv": "Roadranger.si",
+    "url": "https://www.roadranger.si",
+    "opombe": "",
+    "_c": "2026-09-20T12:47:53.449Z",
+    "_u": "2026-09-20T12:47:53.449Z"
+   },
+   {
+    "id": "dej_avengerbox",
+    "naziv": "Avengerbox.si",
+    "url": "https://www.avengerbox.si",
+    "opombe": "",
+    "_c": "2026-09-20T12:47:53.449Z",
+    "_u": "2026-09-20T12:47:53.449Z"
+   }
+  ],
+  "ceniki": [],
+  "ideje": [],
+  "mape": [
+   {
+    "id": "pf_tehnicna_0",
+    "_c": "2026-09-20T12:48:44.513Z",
+    "sec": "tehnicna",
+    "parent": "",
+    "name": "Vzorci poročil",
+    "_u": "2026-09-20T12:48:44.513Z"
+   },
+   {
+    "id": "pf_tehnicna_1",
+    "_c": "2026-09-20T12:48:44.513Z",
+    "sec": "tehnicna",
+    "parent": "",
+    "name": "Izdana poročila",
+    "_u": "2026-09-20T12:48:44.513Z"
+   }
+  ],
+  "datoteke": []
+ },
  "tomb": [],
  "log": []
 }
