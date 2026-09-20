@@ -2,7 +2,7 @@
  "meta": {
   "app": "STIK OS",
   "v": 1,
-  "updatedAt": "2026-09-20T12:57:22.752Z",
+  "updatedAt": "2026-09-20T12:58:37.558Z",
   "seeded": {
    "dej": 1,
    "tehnicna": 1
@@ -49,7 +49,7 @@
    "rate": 0.43
   },
   "proxies": true,
-  "theme": "light",
+  "theme": "auto",
   "shopBase": "https://pickupoprema.si"
  },
  "counters": {
@@ -74,24 +74,24 @@
     "naziv": "Pickupoprema.si",
     "url": "https://www.pickupoprema.si",
     "opombe": "Spletna trgovina z opremo za pick-up vozila",
-    "_c": "2026-09-20T12:47:53.449Z",
-    "_u": "2026-09-20T12:47:53.449Z"
+    "_c": "2026-09-20T12:58:37.558Z",
+    "_u": "2026-09-20T12:58:37.558Z"
    },
    {
     "id": "dej_roadranger",
     "naziv": "Roadranger.si",
     "url": "https://www.roadranger.si",
     "opombe": "",
-    "_c": "2026-09-20T12:47:53.449Z",
-    "_u": "2026-09-20T12:47:53.449Z"
+    "_c": "2026-09-20T12:58:37.558Z",
+    "_u": "2026-09-20T12:58:37.558Z"
    },
    {
     "id": "dej_avengerbox",
     "naziv": "Avengerbox.si",
     "url": "https://www.avengerbox.si",
     "opombe": "",
-    "_c": "2026-09-20T12:47:53.449Z",
-    "_u": "2026-09-20T12:47:53.449Z"
+    "_c": "2026-09-20T12:58:37.558Z",
+    "_u": "2026-09-20T12:58:37.558Z"
    }
   ],
   "ceniki": [],
