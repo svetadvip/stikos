@@ -1,8 +1,0 @@
-# Neobvezno: za namestitev Workerja z ukazno vrstico (npx wrangler deploy).
-# Če Worker ustvariš v nadzorni plošči Cloudflare, te datoteke ne potrebuješ.
-name = "stik-os"
-main = "worker.js"
-compatibility_date = "2025-01-01"
-
-[ai]
-binding = "AI"
