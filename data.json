@@ -2,7 +2,7 @@
  "meta": {
   "app": "STIK OS",
   "v": 1,
-  "updatedAt": "2026-09-20T12:57:19.008Z",
+  "updatedAt": "2026-09-20T12:57:22.752Z",
   "seeded": {
    "dej": 1,
    "tehnicna": 1
@@ -49,7 +49,7 @@
    "rate": 0.43
   },
   "proxies": true,
-  "theme": "dark",
+  "theme": "light",
   "shopBase": "https://pickupoprema.si"
  },
  "counters": {
